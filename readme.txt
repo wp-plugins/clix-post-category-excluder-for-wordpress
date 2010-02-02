@@ -7,7 +7,9 @@ Requires at least: 2.7
 == Description ==
 This plugin provides a number of checkboxes on the admin post edit screen, allowing the author to exclude certain 
 posts from archive, tag, search and home page listings. This can save some wp users a lot of time from having to 
-edit/create templates to exclude certain posts from the wordpress loop.
+edit/create templates to exclude certain posts from the wordpress loop.  There are a number of post/category 
+exclusion plug-ins out there and this one I feel is a little better because it puts the options for exclusion 
+directly on the post edit screen, instead of a separate administration page.
 
 The editing checkboxes on the post edit screen are: 
 	Disable listing on home page; 
