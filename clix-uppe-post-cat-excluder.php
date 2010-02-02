@@ -272,7 +272,7 @@ function clix_uppe_admin_menu_page() {
     </p>
 </form>
 <br />
-Please visit <a href="http://clixcorp.com/wordpress/plugins/UPPE" target='_blank'>ClixCorp.Com</a> for updates,
+Please visit <a href="http://clixcorp.com/wordpress/plugins/UPE" target='_blank'>ClixCorp.Com</a> for updates,
 suggestions, or to report any problems you may be having with this plug-in.
 </div>
 <?php }
