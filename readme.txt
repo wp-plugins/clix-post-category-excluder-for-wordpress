@@ -5,11 +5,12 @@ Tested up to: 2.8.6
 Stable tag: 1.0
 Requires at least: 2.7
 == Description ==
-This plugin provides a number of checkboxes on the admin post edit screen, allowing the author to exclude certain 
-posts from archive, tag, search and home page listings. This can save some wp users a lot of time from having to 
-edit/create templates to exclude certain posts from the wordpress loop.  There are a number of post/category 
-exclusion plug-ins out there and this one I feel is a little better because it puts the options for exclusion 
-directly on the post edit screen, instead of a separate administration page.
+This plugin allows the author to exclude certain posts  from archive, 
+tag, search and home page listings. Authors can also exclude posts to
+appear ONLY to logged in users, thereby forcing membership.  The 
+exclusion check boxes appear directly on the edit post page,  no need to
+access the program separately from the admin panel.  This is what makes 
+the plugin better than some of the other excluder plugins out there. 
 
 The editing checkboxes on the post edit screen are: 
 	Disable listing on home page; 
