@@ -1,7 +1,7 @@
 === ClixCorp Post Category Excluder for WordPress ===
 Contributors: DougRyan
 Tags: post, exclusion, category, hidden, content, membership, exclude
-Tested up to: 2.8.6
+Tested up to: 2.9.1
 Stable tag: 1.0
 Requires at least: 2.7
 == Description ==
